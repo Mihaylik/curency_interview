@@ -1,0 +1,13 @@
+.currency_container{
+    display: flex;
+}
+
+.currency{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+
+.icon{
+    margin-right: 5px;
+}
